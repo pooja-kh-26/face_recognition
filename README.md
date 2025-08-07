@@ -47,7 +47,6 @@ This project implements a simple face recognition system using the [Olivetti Fac
 
 ## 📷 Output Sample
 
-![Sample Output](<img width="981" height="568" alt="Image" src="https://github.com/user-attachments/assets/2e8f3d94-49c5-4de9-ae71-aba91b3bf53e" />) 
-
+<img width="981" height="568" alt="Image" src="https://github.com/user-attachments/assets/34349e16-fa9e-478c-aba3-b0fa4de54e6c" />
 ---
 
